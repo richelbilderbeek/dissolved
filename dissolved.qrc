@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="hud">graphics/hud.png</file>
+        <file alias="floorplan">graphics/floorplan.png</file>
+        <file alias="vector">graphics/vector.png</file>
+        <file alias="urin">graphics/urin.png</file>
+        <file alias="proteine">graphics/proteine.png</file>
+        <file alias="primer">graphics/primer.png</file>
+        <file alias="gel">graphics/gel.png</file>
+        <file alias="dna_red">graphics/dna_red.png</file>
+        <file alias="dna_green">graphics/dna_green.png</file>
+        <file>graphics/arrow_r.png</file>
+        <file>graphics/arrow_l.png</file>
+    </qresource>
+</RCC>
