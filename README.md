@@ -9,3 +9,5 @@ Team:
   * Frode Lindeijer
   * Richel Bilderbeek
   * Rob Henning
+
+![Screenshot](Dissolved_0_1.png)
