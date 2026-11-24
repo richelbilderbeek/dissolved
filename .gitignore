@@ -20,3 +20,6 @@
 *.out
 *.app
 .pro.user
+
+# Generated when building the website
+site/
