@@ -4,9 +4,10 @@ Bilderbeek's
 Broers
 Eveline
 Frode
-hackathon
 Henning
 Lindeijer
 Reneman
 Richel
 Richèl
+codecov
+hackathon
