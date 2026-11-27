@@ -9,5 +9,6 @@ Lindeijer
 Reneman
 Richel
 Richèl
+Zensical
 codecov
 hackathon
